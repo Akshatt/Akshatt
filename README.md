@@ -10,15 +10,11 @@
 </a>
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatt&count_private=true&show_icons=true&theme=algolia" />
+  
 </a>
+<a href="https://www.akshatt.github.io/"><img alt="Website" align="left" src="https://img.shields.io/badge/Website-www.akshatt.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/akshatjain31/"><img alt="LinkedIn" align="left" src="https://img.shields.io/badge/LinkedIn-Akshat%20Jain-blue?style=flat-square&logo=linkedin"></a> <br>
+<a href="https://www.instagram.com/_akshatjain/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram-_akshatjain-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:jain.akshat31@gmail.com"><img alt="Email" align="left" src="https://img.shields.io/badge/Email-jain.akshat31@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-------
-
-<h3 align="center"> Connect with me </h3>
-<p align="center">
-<a href="https://www.akshatt.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akshatt.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/akshatjain31/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akshat%20Jain-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_akshatjain/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_akshatjain-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jain.akshat31@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jain.akshat31@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
