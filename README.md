@@ -9,7 +9,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt&theme=algolia" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatt&count_private=true&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatt&count_private=true&show_icons=true&theme=algolia" />
 </a>
 
 <p align="left"> <a href="https://www.akshatt.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akshatt.github.io-blue?style=flat-square&logo=google-chrome"></a>
