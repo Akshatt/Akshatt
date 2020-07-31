@@ -1,5 +1,5 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=akshatt" alt="akshatt"/> --> 
-<h2 align="center"> Hi, I'm Akshat Jain 👋 <br/> </h2> 
+<h2 align="center"> Hi, I'm Akshat Jain 👋 </h2> 
 
 ------
 
