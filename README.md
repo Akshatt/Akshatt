@@ -4,7 +4,7 @@
 ------
 
 <h3 align="center"> About me </h3>
-<p align="center">Exploring new technologies and the broad spectrum of machine learning<br>Studying Computer Science in Bachelor of Engineering at University of Mumbai<br>Looking for internships in Data Science/ML/AI<br>Learning more about libraries and tools used for handling data<br>Fun Fact:</p>
+<p align="center">Exploring new technologies and the broad spectrum of machine learning<br>Studying Computer Science in Bachelor of Engineering at University of Mumbai<br>Looking for internships in Data Science/ML/AI<br>Learning more about libraries and tools used for handling data<br>Fun Fact: In a mad world, only the mad are sane</p>
 
 ------
 
