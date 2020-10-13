@@ -16,10 +16,10 @@
 <!-- <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt&theme=algolia" /></a> -->
 <p style="display:inline-block">
 <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatt&count_private=true&show_icons=true&theme=algolia" /></a>
-<a href="https://akshatt.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-akshatt.github.io-blue?style=flat-square&logo=google-chrome"></a><br><br>
-<a href="https://linkedin.com/in/akshatjain31/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akshat%20Jain-blue?style=flat-square&logo=linkedin"></a><br><br>
-<a href="https://www.instagram.com/_akshatjain/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram-_akshatjain-blue?style=flat-square&logo=instagram"></a><br><br>
-<a href="mailto:jain.akshat31@gmail.com"><img alt="Email" align="left" src="https://img.shields.io/badge/Email-jain.akshat31@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<br><a href="https://akshatt.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-black?style=flat&logo=google-chrome"></a><br><br>
+<a href="https://linkedin.com/in/akshatjain31/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin"></a><br><br>
+<a href="https://www.instagram.com/_akshatjain/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram"></a><br><br>
+<a href="mailto:jain.akshat31@gmail.com"><img alt="Email" align="left" src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail"></a>
 </p>
 
 
