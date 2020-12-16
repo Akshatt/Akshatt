@@ -9,7 +9,7 @@
 ------
 
 <h3 align="center"> Tech Stack </h3>
-<p align="center">Python | R (Statistics) | Java | C <br>Rasa | Django | Flask | HTML | CSS | JavaScript | Bootstrap | Node.js <br>MySQL<br> Git | RStudio | Shiny | Markdown | Tidyverse<br> </p>  
+<p align="center">Python | R (Statistics) | Java | C <br>Apache Spark | Rasa | Django | Flask | HTML | CSS | JavaScript | Bootstrap | Node.js <br>MySQL<br> PyQt | Tkinter | Git | RStudio | Shiny | Markdown | Tidyverse<br> </p>  
 
 ------
 
