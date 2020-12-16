@@ -4,7 +4,7 @@
 ------
 
 <h3 align="center"> About me </h3>
-<p align="center">Exploring new technologies and the broad spectrum of machine learning<br>Graduated in Bachelor of Engineering, Computer Science from University of Mumbai<br>Looking for internships in Data Science/ML/AI<br>Learning more about libraries and tools used for handling data<br>Currently reading:<br><br>Pandolfini's Ultimate Guide to Chess<br>Automate the Boring Stuff with Python</p>
+<p align="center">Exploring new technologies and the broad spectrum of machine learning<br>Graduated in Bachelor of Engineering, Computer Science from University of Mumbai<br>Looking for internships in Data Science/ML/AI<br>Learning more about libraries and tools used for handling data<br>Currently reading:<br><br>The Complete Idiot's Guide to Chess by Patrick Wolff</p>
 
 ------
 
